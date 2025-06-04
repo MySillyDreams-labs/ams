@@ -1,0 +1,6 @@
+backend/build/
+frontend/node_modules/
+# Ignore binary assets
+frontend/public/*.png
+frontend/public/*.ico
+backend/gradle/wrapper/gradle-wrapper.jar
