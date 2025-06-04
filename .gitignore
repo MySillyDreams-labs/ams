@@ -1,0 +1,6 @@
+# Ignore generated assets
+/frontend/public/*.png
+/frontend/public/favicon.ico
+
+# Ignore Gradle wrapper jar which must be generated locally
+/backend/gradle/wrapper/gradle-wrapper.jar
